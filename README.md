@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação (8º período)
 
-💻 Desenvolvedor de Software
+💻 Desenvolvedor de Software Junior
 
 ## Tecnologias
 
