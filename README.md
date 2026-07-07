@@ -42,6 +42,6 @@
 
 ## Contato
 
-📧 rodrigolucascc@gmail.com
+📧 rodrigomarquezscc@gmail.com
 
-💼 LinkedIn: linkedin.com/in/rodrigoluczs
+💼 LinkedIn: linkedin.com/in/rodrigomarqzs
